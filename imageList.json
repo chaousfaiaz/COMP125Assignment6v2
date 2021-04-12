@@ -1,0 +1,24 @@
+{
+    "ImageList":[
+        {
+            "name":"images/IMG_01sm.jpg",
+            "time":3000
+        },
+        {
+            "name":"images/IMG_02sm.jpg",
+            "time":4000
+        },
+        {
+            "name":"images/IMG_03sm.jpg",
+            "time":3000
+        },
+        {
+            "name":"images/IMG_04sm.jpg",
+            "time":5000
+        },
+        {
+            "name":"images/IMG_05sm.jpg",
+            "time":4000
+        }
+    ]
+}
